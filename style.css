@@ -16,7 +16,6 @@ body{
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 0 10px hsla(219, 15%, 55%, 0.304);
     padding: 16px;
-    padding-bottom: 1.5rem;
     text-align: center;
 }
 
@@ -33,12 +32,4 @@ h2{
 p{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-}
-
-.attribution{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    text-align: center;  
 }
