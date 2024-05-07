@@ -16,6 +16,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 0 10px hsla(219, 15%, 55%, 0.304);
     padding: 16px;
+    padding-bottom: 1.5rem;
     text-align: center;
 }
 
