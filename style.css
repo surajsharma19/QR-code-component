@@ -3,15 +3,18 @@
 body{
     background-color: #d6e2f0;
     font-family: "Outfit", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card{
     width: 100%;
     max-width: 302px;
-    height: 470px;
-    position: absolute;
+    /* height: 470px; */
+    /* position: absolute;
     margin: auto;
-    inset: 0;
+    inset: 0; */
     border-radius: 16px;
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 0 10px hsla(219, 15%, 55%, 0.304);
